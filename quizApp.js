@@ -38,7 +38,7 @@
 
 // //             </div>
 // //             <div class="correctAnsPanel">
-
+//https://www.google.com/search?q=thumbs+up&rlz=1C1CHBF_enUS842US842&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjNue3K4rfhAhUFnKwKHeLsAkUQ_AUIDigB&biw=1707&bih=778&dpr=1.5#imgrc=RQajt-rDHysSWM:
 // //             </div>
 // {/* <button id="quizBtn">Start Quiz</button> */}
 // //         </div>
